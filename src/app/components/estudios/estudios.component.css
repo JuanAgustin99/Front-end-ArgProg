@@ -1,0 +1,15 @@
+.row{
+    padding: 20px;
+}
+div{
+    background-color: rgb(181, 215, 238);
+}
+h2, h4{
+    display: inline;
+} 
+#logo{
+    width: 200px; 
+}
+#logoC{
+    width: 80px;
+}
